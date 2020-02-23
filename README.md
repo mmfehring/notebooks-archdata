@@ -1,4 +1,8 @@
-# notebooks-archdata
+# ANTH 641 Week 6_3
+
+Differently than early in-class activities, there is no specific markdown file providing instructions on your Week 6_3 exercise. Make sure to fork this repo and set up your own mybinder.org environment to run the Jupyter notebooks - copy the binder link and replace the one below. When you launch your binder open the notebook called __ANTH 641_Week 6-Exercise-3__. You'll complete the exercise right in that notebook and download it with the name YOURNAME_Week-6_Exercise-3 and put it into your forked repo. The notebook was adapted from the original PAS API notebook by Daniel Pett. 
+
+## notebooks-archdata
 
 [![DOI](https://zenodo.org/badge/134444997.svg)](https://zenodo.org/badge/latestdoi/134444997)
 
